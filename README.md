@@ -3,7 +3,7 @@
 
 ## Objectives
 - Process stock data in real-time
-- Process batch data from news other sources
+- Process batch data from news and other sources
 - Scalable data processing
 - SQL for Data Analysis
 - ML model integration
